@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!--1-->
+    <item
+        android:id="@+id/ori_create"
+        android:title="@string/ori_create"
+        app:showAsAction="never" />
+    <!--2-->
+    <item
+        android:id="@+id/ori_draw"
+        android:title="@string/ori_draw"
+        app:showAsAction="never" />
+    <!--3-->
+    <item
+        android:id="@+id/ori_clipping"
+        android:title="@string/ori_clipping"
+        app:showAsAction="never" />
+    <!--4-->
+    <item
+        android:id="@+id/ori_surface"
+        android:title="@string/ori_surface"
+        app:showAsAction="never" />
+
+</menu>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF0000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#03DAC5</color>
+    <!--CREATE ORI-->
+    <color name="colorRectangle">#455A64</color>
+    <color name="colorBackground">#FFFFD600</color>
+    <!--CREATE EDIT-->
+    <color name="colorPrimaryDark1">#000000</color>
+    <color name="colorAccent1">#E70001</color>
+    <color name="colorRectangle1">#FFE000</color>
+    <color name="colorBackground1">#008542</color>
+    <!--DRAW ORI-->
+    <color name="opaque_orange">#FFFF5500</color>
+    <color name="opaque_yellow">#FFFFEB3B</color>
+    <!--DRAW EDIT-->
+    <color name="opaque_orange1">#FFFFFFFF</color>
+    <color name="opaque_yellow1">#FFFF0000</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorRed">#FF0000</color>
+</resources>

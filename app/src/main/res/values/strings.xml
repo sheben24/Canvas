@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Canvas</string>
+    <string name="canvas">C A N V A S</string>
+
+    <string name="ori_create">ORI Create Canvas objects</string>
+    <string name="keep_tapping">Keep tapping.</string>
+    <string name="done">Done!</string>
+    <string name="edit_create">EDIT Create Canvas objects</string>
+    <string name="keep_tapping1">#MOSITIDAKPERCAYA</string>
+    <string name="done1">COK!</string>
+
+    <string name="ori_draw">ORI Draw on Canvas objects</string>
+    <string name="edit_draw">EDIT Draw on Canvas objects</string>
+
+    <string name="ori_clipping">ORI Apply clipping to Canvas objects</string>
+    <string name="clipping">Clipping</string>
+    <string name="translated">Translated Text</string>
+    <string name="skewed">Skewed and </string>
+    <string name="edit_clipping">EDIT Apply clipping to Canvas objects</string>
+    <string name="clipping1">Jancok</string>
+    <string name="translated1">\n#MOSITIDAKPERCAYA</string>
+    <string name="skewed1">COK! </string>
+
+    <string name="ori_surface">ORI SurfaceView objects</string>
+    <string name="edit_surface">EDIT SurfaceView objects</string>
+</resources>
